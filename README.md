@@ -14,8 +14,6 @@ npm run compile:sass
 🔗 Tablericons: <https://tablericons.com> \
 🔗 Bootstrap icons: <https://icons.getbootstrap.com> \
 🔗 Illustrations: <https://www.manypixels.co/gallery> \
-🔗 freeCodeCamp: <https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/> \
-🔗 YouTube: <https://www.youtube.com/watch?v=iJKCj8uAHz8> \
 🔗 ManyPixels: <https://www.manypixels.co/gallery> \
 🔗 Make Waves <https://getwaves.io/> \
 🔗 GLight <https://glight.co.nz/>
