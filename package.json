@@ -18,7 +18,7 @@
 	"author": "Scott Milliorn",
 	"license": "ISC",
 	"devDependencies": {
-		"sass": "1.43.2"
+		"sass": "1.43.3"
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-free": "^5.15.4",
